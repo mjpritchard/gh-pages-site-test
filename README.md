@@ -2,4 +2,4 @@
 test of github pages
 here are some more words
 
-theme now minima
+theme now something else
