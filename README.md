@@ -2,4 +2,4 @@
 test of github pages
 here are some more words
 
-theme now something else
+theme now something else completely
